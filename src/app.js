@@ -13,7 +13,7 @@ const hbs = require('hbs')
 
 const port = process.env.PORT||5000;
 
-console.log(port)
+// console.log(port)
 
 
 //Define Path for Express config
